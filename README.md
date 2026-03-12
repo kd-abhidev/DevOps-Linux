@@ -1,4 +1,4 @@
-# DevOps Linux Notes
+# Linux Notes
 
 ## Overview
 
